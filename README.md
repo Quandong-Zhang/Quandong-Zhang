@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Rerange's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quandong-Zhang&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quandong-Zhang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quandong-Zhang&hide=Ren'py)](https://github.com/anuraghazra/github-readme-stats)
