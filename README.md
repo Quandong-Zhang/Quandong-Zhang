@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 ![Rerange's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quandong-Zhang&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quandong-Zhang&hide=Ren'py)](https://github.com/anuraghazra/github-readme-stats)
 ### 最近在玩的项目：/Currently working on:
-[![Readme Card](https://github-readme-stats.lwd-temp.top/api/pin/?username=Quandong-Zhang&repo=Violet
-&show_owner=true)](https://github.com/Quandong-Zhang/Violet
-)
+[![Readme Card](https://github-readme-stats.lwd-temp.top/api/pin/?username=Quandong-Zhang&repo=Violet&show_owner=true)](https://github.com/Quandong-Zhang/Violet)
